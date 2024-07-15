@@ -1,0 +1,36 @@
+/* Reset default list styles */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+
+/* Style for todo lists */
+li {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: cornsilk;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+}
+
+
+
+
+/*Style for blog posts text */
+li {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: cornsilk;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+}
+
+
+
+
+
+
+
